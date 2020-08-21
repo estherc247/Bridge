@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31203874870",
+    "firebase_url": "https://bridge-8ac3d.firebaseio.com",
+    "project_id": "bridge-8ac3d",
+    "storage_bucket": "bridge-8ac3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31203874870:android:3fefb965dba0136d46e097",
+        "android_client_info": {
+          "package_name": "com.example.bridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31203874870-glfa318s08mhbpv304p0b069p62iunv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2OmKWH7llE8gMhr_1X-_Zhcjiba1Zs1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31203874870-glfa318s08mhbpv304p0b069p62iunv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
